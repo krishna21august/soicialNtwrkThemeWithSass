@@ -1,5 +1,5 @@
-# soicialNtwrkThemeWithSass
+# DevConnector Theme / UI
 
-PLugins VSCode:
-Live Sass Compiler (to compile sass file to css file).
-live server loadder (to auto reload page on change).
+> Full theme with Sass (.scss) files
+
+The full app built with the MERN stack is [here](https://github.com/bradtraversy/devconnector_2.0)
